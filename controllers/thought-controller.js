@@ -52,7 +52,7 @@ const thoughtController = {
             }
             res.json(dbThoughtData);
         })
-        .catch(err => res.status(400).json(err));)
+        .catch(err => res.status(400).json(err));
     },
     //Update thought by id
     updateThought({params, body}, res) {
