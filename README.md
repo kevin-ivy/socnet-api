@@ -12,6 +12,15 @@
   * [Tests](#tests)
   * [License](#license)
   * [Questions](#questions)
+  
+  ## Screenshot
+  
+  ![Screenshot of Insomnia](/thumbnail.png)
+  
+  
+  ## Demo Video
+  
+  [Link to Demonstration](https://drive.google.com/file/d/1aXq_7sb9bhkB_vUUEerINRqCEZ4K8qrK/view)
     
   ## Installation
   
